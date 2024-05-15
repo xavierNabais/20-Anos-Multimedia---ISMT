@@ -21,6 +21,7 @@ O website foi desenvolvido utilizando as seguintes tecnologias:
 
 
 __DESTAQUES DO PROJETO__
+
 Destacamos os seguintes aspectos que tornam este projeto especial:
 
 -Design Personalizado: O website apresenta um design personalizado e exclusivo, desenvolvido para refletir a identidade visual do Instituto Superior Miguel Torga e do curso de Multimédia.
